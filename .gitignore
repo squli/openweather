@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+.vscode/settings.json
+.vscode/tasks.json
+/libs/curl-8.7.1_7-win64-mingw
+/opencv
+/json
